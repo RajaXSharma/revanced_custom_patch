@@ -12,6 +12,7 @@ excluded-patches = "'Downloads' 'Swipe controls' 'Hide player overlay buttons' '
 included-patches = ""
 patcher-args = "-e 'Custom branding' -OappName=Oreki -e 'Change header' -Oheader=Oreki"
 version = "auto"
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
