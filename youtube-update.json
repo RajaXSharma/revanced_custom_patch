@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.42.1)",
-  "versionCode": 15,
-  "zipUrl": "https://github.com/RajaXSharma/revanced_custom_patch/releases/download/15/youtube-revanced-magisk-v20.14.43-arm64-v8a.zip",
+  "version": "v20.14.43 (patches 5.43.0)",
+  "versionCode": 16,
+  "zipUrl": "https://github.com/RajaXSharma/revanced_custom_patch/releases/download/16/youtube-revanced-magisk-v20.14.43-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/RajaXSharma/revanced_custom_patch/update/build.md"
 }
